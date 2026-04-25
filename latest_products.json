@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-25T22:00:05+09:00",
+  "updated_at": "2026-04-25T22:20:05+09:00",
   "count": 12,
   "products": [
+    {
+      "id": "13720",
+      "title": "GR4 HDF",
+      "url": "https://rainbowshop.imweb.me/shop_view/13720",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/065b60227bffe.png",
+      "price": "3,500,000원",
+      "registered_at": ""
+    },
+    {
+      "id": "13719",
+      "title": "GR4",
+      "url": "https://rainbowshop.imweb.me/shop_view/13719",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/72486c1247f4b.png",
+      "price": "2,500,000원",
+      "registered_at": ""
+    },
     {
       "id": "13718",
       "title": "DJI 리토 1 Lito 1",
@@ -80,22 +96,6 @@
       "url": "https://rainbowshop.imweb.me/shop_view/13708",
       "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/2e2eb1ea96d5a.png",
       "price": "64,900원",
-      "registered_at": ""
-    },
-    {
-      "id": "13707",
-      "title": "스몰리그 5564 모노포드",
-      "url": "https://rainbowshop.imweb.me/shop_view/13707",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/59e32647797d4.png",
-      "price": "20,000원",
-      "registered_at": ""
-    },
-    {
-      "id": "13706",
-      "title": "SMALLRIG 5486 니콘 EN-EL15c 카메라 배터리 PD 3.0 고속 충전기 키트",
-      "url": "https://rainbowshop.imweb.me/shop_view/13706",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/3d628c93412da.jpg",
-      "price": "99,000원",
       "registered_at": ""
     }
   ]
