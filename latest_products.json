@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-28T23:10:05+09:00",
+  "updated_at": "2026-04-28T23:15:05+09:00",
   "count": 12,
   "products": [
+    {
+      "id": "13723",
+      "title": "GR4 HDF 복제",
+      "url": "https://rainbowshop.imweb.me/shop_view/13723",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/6c8de9c4c277e.png",
+      "price": "3,500,000원",
+      "registered_at": ""
+    },
     {
       "id": "13722",
       "title": "SMALLRIG MD4573 36인치 경량 시네카트 카메라 장비 카트",
@@ -88,14 +96,6 @@
       "url": "https://rainbowshop.imweb.me/shop_view/13710",
       "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/f84dd518063d9.png",
       "price": "77,900원",
-      "registered_at": ""
-    },
-    {
-      "id": "13709",
-      "title": "DJI Care Refresh 1년 플랜 (Osmo Pocket 4)",
-      "url": "https://rainbowshop.imweb.me/shop_view/13709",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/616d7965cfdce.png",
-      "price": "40,900원",
       "registered_at": ""
     }
   ]
