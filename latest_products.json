@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-04-28T23:20:05+09:00",
+  "updated_at": "2026-04-28T23:25:05+09:00",
   "count": 12,
   "products": [
     {
+      "id": "13729",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 송신기",
+      "url": "https://rainbowshop.imweb.me/shop_view/13729",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/9aea847151ca0.jpg",
+      "price": "38,200원",
+      "registered_at": ""
+    },
+    {
+      "id": "13728",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 충전 케이스 (1 TX + 1 모바일 RX)",
+      "url": "https://rainbowshop.imweb.me/shop_view/13728",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/b7429c2c6c063.jpg",
+      "price": "40,700원",
+      "registered_at": ""
+    },
+    {
+      "id": "13727",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 충전 케이스",
+      "url": "https://rainbowshop.imweb.me/shop_view/13727",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/89a016cde1f1b.jpg",
+      "price": "51,000원",
+      "registered_at": ""
+    },
+    {
       "id": "13726",
-      "title": "DJI 마이크 미니 2 Mic Mini 2 (1TX + 1모바일 RX + 충전 케이스) 복제",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 (1TX + 1RX)",
       "url": "https://rainbowshop.imweb.me/shop_view/13726",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/b3143b9ea49a3.jpg",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/0239f5df54e85.jpg",
       "price": "68,400원",
       "registered_at": ""
     },
@@ -72,30 +96,6 @@
       "url": "https://rainbowshop.imweb.me/shop_view/13717",
       "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/a3a0cab217903.jpg",
       "price": "590,000원",
-      "registered_at": ""
-    },
-    {
-      "id": "13716",
-      "title": "DJI 리토 X1 Lito X1",
-      "url": "https://rainbowshop.imweb.me/shop_view/13716",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/773b847e60be6.jpg",
-      "price": "524,000원",
-      "registered_at": ""
-    },
-    {
-      "id": "13715",
-      "title": "DJI 리토 X1 Lito X1 플라이 모어 콤보 드론 (RC2 조종기)",
-      "url": "https://rainbowshop.imweb.me/shop_view/13715",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/a0f4c804d5bff.jpg",
-      "price": "714,000원",
-      "registered_at": ""
-    },
-    {
-      "id": "13714",
-      "title": "DJI리토 X1 Lito X1 플라이 모어 콤보 드론 (RC2 조종기)",
-      "url": "https://rainbowshop.imweb.me/shop_view/13714",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/09509abdbcf14.jpg",
-      "price": "841,000원",
       "registered_at": ""
     }
   ]
