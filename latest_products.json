@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-28T12:35:05+09:00",
+  "updated_at": "2026-04-28T12:40:05+09:00",
   "count": 12,
   "products": [
+    {
+      "id": "13722",
+      "title": "SMALLRIG 5490 캐논 LP-E6P 카메라 배터리 PD 3.0 고속 충전기 복제",
+      "url": "https://rainbowshop.imweb.me/shop_view/13722",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/4bf4e16df7ad2.jpg",
+      "price": "40,000원",
+      "registered_at": ""
+    },
     {
       "id": "13720",
       "title": "GR4 HDF",
@@ -88,14 +96,6 @@
       "url": "https://rainbowshop.imweb.me/shop_view/13709",
       "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/616d7965cfdce.png",
       "price": "40,900원",
-      "registered_at": ""
-    },
-    {
-      "id": "13708",
-      "title": "DJI Care Refresh 2년 플랜 (Osmo Pocket 4)",
-      "url": "https://rainbowshop.imweb.me/shop_view/13708",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/2e2eb1ea96d5a.png",
-      "price": "64,900원",
       "registered_at": ""
     }
   ]
