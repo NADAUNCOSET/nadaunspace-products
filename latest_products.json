@@ -1,13 +1,37 @@
 {
-  "updated_at": "2026-04-28T23:15:05+09:00",
+  "updated_at": "2026-04-28T23:20:05+09:00",
   "count": 12,
   "products": [
     {
+      "id": "13726",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 (1TX + 1모바일 RX + 충전 케이스) 복제",
+      "url": "https://rainbowshop.imweb.me/shop_view/13726",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/b3143b9ea49a3.jpg",
+      "price": "68,400원",
+      "registered_at": ""
+    },
+    {
+      "id": "13725",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 (1TX + 1모바일 RX + 충전 케이스)",
+      "url": "https://rainbowshop.imweb.me/shop_view/13725",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/e93861bf1e64c.jpg",
+      "price": "68,400원",
+      "registered_at": ""
+    },
+    {
+      "id": "13724",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 (2TX + 1모바일 RX + 충전 케이스)",
+      "url": "https://rainbowshop.imweb.me/shop_view/13724",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/93fd0774866ff.jpg",
+      "price": "91,500원",
+      "registered_at": ""
+    },
+    {
       "id": "13723",
-      "title": "GR4 HDF 복제",
+      "title": "DJI 마이크 미니 2 Mic Mini 2 (2TX + 1RX + 충전 케이스)",
       "url": "https://rainbowshop.imweb.me/shop_view/13723",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/6c8de9c4c277e.png",
-      "price": "3,500,000원",
+      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/c9b5d3f3da506.jpg",
+      "price": "114,700원",
       "registered_at": ""
     },
     {
@@ -72,30 +96,6 @@
       "url": "https://rainbowshop.imweb.me/shop_view/13714",
       "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/09509abdbcf14.jpg",
       "price": "841,000원",
-      "registered_at": ""
-    },
-    {
-      "id": "13713",
-      "title": "DJI 리토 X1 Lito X1 플라이 모어 콤보 플러스 드론 (RC2 조종기)",
-      "url": "https://rainbowshop.imweb.me/shop_view/13713",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/cd03b4a488f91.jpg",
-      "price": "946,000원",
-      "registered_at": ""
-    },
-    {
-      "id": "13711",
-      "title": "DJI Osmo Pocket 4 필라이트",
-      "url": "https://rainbowshop.imweb.me/shop_view/13711",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/51922236470ae.png",
-      "price": "26,000원",
-      "registered_at": ""
-    },
-    {
-      "id": "13710",
-      "title": "DJI Osmo Pocket 4 배터리 핸들",
-      "url": "https://rainbowshop.imweb.me/shop_view/13710",
-      "image": "https://cdn.imweb.me/upload/S2020100856a601720ff3b/f84dd518063d9.png",
-      "price": "77,900원",
       "registered_at": ""
     }
   ]
